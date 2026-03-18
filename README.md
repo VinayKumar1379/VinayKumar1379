@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Good Morning 👋
+# Good Morning 🌄
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+%26+Platform+Engineering;4%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
@@ -16,8 +16,8 @@ I'm **Vinay kumar specializing in **Azure Cloud Enginer** from India And UAE (Du
 - 🔭 Currently working on **cloud-native solutions**, ** and **Upskilling in DevSecOps**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Azure, Cloud Engineer, DevOps, and Platform Engineering**
-
+- 💬 Ask me about **Azure, Cloud Engineer, DevOps, SRE and Platform Engineering**
+ 
 
 ---
 
