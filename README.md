@@ -16,7 +16,7 @@ I'm **Vinay kumar specializing in **Azure Cloud Enginer** from India And UAE (Du
 - 🔭 Currently working on **cloud-native solutions**, ** and **Upskilling in DevSecOps**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Azure, Cloud Engineer, DevOps, SRE and Platform Engineering**
+- 💬 Ask me about ** Multi-Cloud Engineer, DevOps, SRE and Platform Engineering**
  
 
 ---
