@@ -47,7 +47,7 @@ I'm **Vinay kumar specializing in **Azure Cloud Enginer** from India And UAE (Du
 <p align="left">
 
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="100" height="100"/>
  
 </p>
 
