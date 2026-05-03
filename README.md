@@ -40,6 +40,7 @@ I'm **Vinay kumar specializing in **Azure Cloud Enginer** from India And UAE (Du
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/buildpacksio/buildpacksio-ar21.svg" alt="buildpacksio" width="40" height="40"/>
 </p>
 
 ### **Databases & Monitoring**
